@@ -1,0 +1,17 @@
+body {
+  background-image: url("https://gravity.kjch.pl/bg.jpg");
+    font-family: 'open sans';
+}
+
+.main-container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.block {
+    background-color: antiquewhite;
+}
+
+.block img {
+    width: 30%;
+}
